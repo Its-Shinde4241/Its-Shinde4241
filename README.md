@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Shubham Namdev Shinde</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | Competitive Programmer</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Techyshubhs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Its-Shinde4241&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/shubham-shinde-3a36b528a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -30,11 +30,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techyshubhs&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="45%"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techyshubhs&theme=tokyonight" alt="GitHub Streak" width="45%"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Its-Shinde4241&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="45%"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Shinde4241&theme=tokyonight" alt="GitHub Streak" width="45%"/> -->
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Techyshubhs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Its-Shinde4241&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
 </p>
 
 ---
@@ -60,8 +60,8 @@
 ## 🐍 GitHub Contribution 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techyshubhs/Techyshubhs/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Techyshubhs/Techyshubhs/output/github-snake.svg" alt="Snake Animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Its-Shinde4241/Its-Shinde4241/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Its-Shinde4241/Its-Shinde4241/output/github-snake.svg" alt="Snake Animation" />
 </picture>
 
 
