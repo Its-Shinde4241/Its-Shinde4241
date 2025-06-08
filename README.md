@@ -33,12 +33,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Its-Shinde4241&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="45%"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Shinde4241&theme=tokyonight" alt="GitHub Streak" width="45%"/> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-shinde4241&theme=gotham"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-shinde4241&theme=gotham"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-shinde4241&theme=gotham"/>
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Its-Shinde4241&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
-</p>
 
 ---
 
