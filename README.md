@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shubham Namdev Shinde</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | AIML Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-shinde-3a36b528a/" target="_blank">
