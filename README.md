@@ -32,12 +32,30 @@
 ---
 
 ### 🧰 Tech Stack & Tools
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs,vite,mongodb,mysql,postgresql,java,ts,js,cpp,python,git,vscode,idea,qt,postman,npm,supabase&theme=dark" />
+
+**Languages**  
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,python&theme=dark" />
+
+**Web Technologies**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,next,express,fastapi,nodejs,prisma,maven,spring&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase&theme=dark" />
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,docker,pycharm,postman,npm,vercel,figma&theme=dark" />
+
 </div>
 
----
 
 ### 📈 GitHub Stats
 
