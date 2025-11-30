@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shubham Namdev Shinde</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Problem Solver</h3>
+<h3 align="center">Full Stack MERN Developer | Full Stack Java Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-shinde-3a36b528a/" target="_blank">
@@ -23,10 +23,11 @@
 ---
 
 ### 🏁 Competitive Programming
-
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/its_Shinde4241?ext=contest&theme=dark" width="47%" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=its_Shinde4241&theme=dark" width="47%" />
+  
+### 🔥 **LeetCode Progress**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/its_Shinde4241?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/its_Shinde4241/)
+
 </div>
 
 ---
